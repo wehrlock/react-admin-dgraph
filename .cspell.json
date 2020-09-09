@@ -22,7 +22,8 @@
     "sandboxed",
     "transpiled",
     "typedoc",
-    "untracked"
+    "untracked",
+    "wehrle"
   ],
   "flagWords": [],
   "ignorePaths": [
