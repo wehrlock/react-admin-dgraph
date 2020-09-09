@@ -7,7 +7,12 @@
   "module": "build/module/index.js",
   "repository": "https://github.com/wehrlock/react-admin-dgraph",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "data provider",
+    "dgraph",
+    "graphql",
+    "react admin"
+  ],
   "scripts": {
     "build": "run-p build:*",
     "build:main": "tsc -p tsconfig.json",

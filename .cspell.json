@@ -25,6 +25,7 @@
   ],
   "flagWords": [],
   "ignorePaths": [
+    ".vscode/**",
     "package.json",
     "package-lock.json",
     "yarn.lock",
