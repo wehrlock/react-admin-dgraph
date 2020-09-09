@@ -48,11 +48,13 @@
   },
   "dependencies": {
     "graphql-tag": "^2.11.0",
+    "lodash": "^4.17.20",
     "ra-data-graphql": "^3.8.0"
   },
   "devDependencies": {
     "@ava/typescript": "^1.1.1",
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
+    "@types/lodash": "^4.14.161",
     "@typescript-eslint/eslint-plugin": "^4.1.0",
     "@typescript-eslint/parser": "^4.1.0",
     "apollo-client": "^2.6.10",
